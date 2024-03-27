@@ -12,7 +12,7 @@
 
 ```
 ensure wais-compatibility
-ensure wais-hudv5
+ensure wais-bodycamv2
 ```
 
 - Read the `wais_records` table into SQL
