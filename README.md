@@ -13,6 +13,7 @@
 
 ```
 ensure wais-compatibility
+#ensure other-wais-scripts
 ensure wais-bodycamv2
 ```
 
