@@ -124,10 +124,10 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 - Don't forget to install export according to the framework you are using
 
 ```
-Config.SendNotifications = function(notif)
-  local ESX = exports['es_extended']:getSharedObject()
-  local QBCore = exports['qb-core']:GetCoreObject()
+local ESX = exports['es_extended']:getSharedObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 
+Config.SendNotifications = function(notif)
   --exports['okokNotify']:Alert('Title', Config.Notifications[notif].text, 2500, Config.Notifications[notif].type, false)
   --ESX.ShowNotification(Config.Notifications[notif].text)
   --QBCore.Functions.Notify(Config.Notifications[notif].text, Config.Notifications[notif].type)
