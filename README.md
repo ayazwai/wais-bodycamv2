@@ -110,8 +110,8 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
     },
 ```
 - You can find the item photos below
-![bodycam](https://media.discordapp.net/attachments/1039535847361499177/1221848804291248138/bodycam.png?ex=6614125f&is=66019d5f&hm=b2f0e7694c0b401b7807345865ceaa51403ff401ce8b8d86eab3e6ea40177c6a&=&format=webp&quality=lossless&width=80&height=80)
-![dashcam](https://media.discordapp.net/attachments/1039535847361499177/1221848804500836362/dashcam.png?ex=6614125f&is=66019d5f&hm=ab97ef83eb93200b904716dbab351b40398ce4584131bab375f496e37d68c5d5&=&format=webp&quality=lossless&width=80&height=80)
+![bodycam](https://i.imgur.com/QIMOlRb.png)
+![dashcam](https://i.imgur.com/R9D3c9h.png)
 
 # Sometimes the character's head is visible in the bodycam
 
